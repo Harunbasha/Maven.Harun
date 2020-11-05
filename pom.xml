@@ -7,6 +7,7 @@
   <groupId>Devops</groupId>
   <artifactId>Training</artifactId>
   <version>8</version>
+  <packaging>war</packaging>
 
   <name>Training</name>
   <!-- FIXME change it to the project's website -->
